@@ -4,7 +4,7 @@
 ![Image description](https://wallup.net/wp-content/uploads/2014/11/mma-awsome-kick.jpg)
 
 
-As a Mixed Martial Arts fan, I thought it would be interesting to analyze fight data to see what insights could be drawn and inferences made as to the in-fight factors affecting the outcome. https://pmcvariety.files.wordpress.com/2018/10/ufc.jpg?w=1000
+As a Mixed Martial Arts fan, I thought it would be interesting to analyze fight data to see what insights could be drawn and inferences made as to the in-fight factors affecting the outcome.
 
 I found a dataset on Kaggle containing data on nearly 3000 fights that took place between 2013-17 in the Ultimate Fighting Championship (UFC), a US-based MMA promotion. After removing rows with mostly missing data, the dataset was reduced to 1791 rows. I then decided to remove fights that ended in draws and no-contests, which further reduced the size of the final dataset to 1762.                                 
 ## The Task
