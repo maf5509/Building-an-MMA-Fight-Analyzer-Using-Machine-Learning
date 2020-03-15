@@ -1,6 +1,6 @@
 # Building-an-MMA-Fight-Analyzer-Using-Machine-Learning
 ### A Study into the In-Fight Factors Affecting Chances of Victory (or Defeat)
-![Image description](https://cdn.vox-cdn.com/thumbor/J_BiIisSTkoGdMjYb087PR3CDjw=/0x0:3246x2064/1200x800/filters:focal(1335x362:1853x880)/cdn.vox-cdn.com/uploads/chorus_image/image/60205297/usa_today_10392964.0.jpg)
+![Image description](https://pmcvariety.files.wordpress.com/2018/10/ufc.jpg?w=1000)
 
 
 As a Mixed Martial Arts fan, I thought it would be interesting to analyze fight data to see what insights could be drawn and inferences made as to the in-fight factors affecting the outcome.
